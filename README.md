@@ -17,7 +17,7 @@ Frontend https://github.com/Ilya-Ivashchenk0/build-store-test-front
 
 https://www.figma.com/file/u96UjK2Kzo2bk0PhVdL5xr/John-%2B?type=design&node-id=0-1&mode=design&t=9HKcEn7zMmKpkkCR-0
 
-## Ссылки на проект
+## Ссылки на деплой проекта
 
 Backend https://api.build-store-test.test-tasks.ru
 
